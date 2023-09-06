@@ -1,0 +1,22 @@
+Ukuran Toolbox SP
+
+[ Ukuran Kotak ]
+pxlxt (mm)
+
+Atas = 350x256x3
+Bawah = 350x250x3
+Depan = 350x73x3
+Belakang = 350x73x3
+Kiri = 250x73x3
+Kanan = 250x73x3
+
+[ Ukuran Lubang ]
+pxlxt (mm)
+
+LCD = 15x5x3
+Sensors = 105x5x3
+Kabel Raspi = 20x10x3
+Kabel PS & Relay = 20x10x3
+Ventilasi (per balok) = 50x5x3
+
+Ukuran Puzzle = 50x3x3
